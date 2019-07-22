@@ -1,2 +1,11 @@
 # WebApp
-WebApp built using HTML, CSS, Bootstrap, JavaScript, JQuery and PHP, integrated with a MySQL database
+Simple WebApp for customer and employee management as well as some functionality for reports on certain customer data stored in the database
+
+## Built With
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* JQuery
+* PHP
+* MySQL
