@@ -1,0 +1,12 @@
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+  }
+#home-header{
+    color:white;
+    padding:10px;
+    font-size: 26pt; 
+}
