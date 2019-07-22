@@ -10,4 +10,5 @@ Simple WebApp for customer and employee management as well as some functionality
 * PHP
 * MySQL
 
+
 Check the Project Screenshots folder to see what the app looks like with test data in the database
